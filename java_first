@@ -1,0 +1,4 @@
+const captionText = document.getElementById('caption-text');
+const checkAllButton = document.getElementById('check-all-button');
+const uncheckAllButton = document.getElementById('uncheck-all-button');
+const checkboxes = document.querySelectorAll('input[type="checkbox"]');
