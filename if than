@@ -8,5 +8,9 @@ else:
 
 fgkmdb,c
 .kj.,n
-dghbvc
+
+"""This is a
+multiline docstring."""
+print("Hello, World!")
+
 dsjgnmb kjsdban kjasbhdmn ajsdb m,
